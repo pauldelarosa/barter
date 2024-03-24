@@ -1,0 +1,3 @@
+[submodule "third_party/devcontainers"]
+	path = third_party/devcontainers
+	url = git@gitea.lan:pdelar200/devcontainers.git
